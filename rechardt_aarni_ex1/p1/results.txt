@@ -1,0 +1,15 @@
+CPU Frequency Analysis (100 samples)
+Detected 12 logical cores.
+
+Core 0: Average = 3997.77 MHz, Standard Deviation = 882.05 MHz
+Core 1: Average = 3996.78 MHz, Standard Deviation = 883.32 MHz
+Core 2: Average = 3999.41 MHz, Standard Deviation = 882.63 MHz
+Core 3: Average = 3937.08 MHz, Standard Deviation = 968.93 MHz
+Core 4: Average = 3901.85 MHz, Standard Deviation = 1010.23 MHz
+Core 5: Average = 3989.28 MHz, Standard Deviation = 885.37 MHz
+Core 6: Average = 3968.57 MHz, Standard Deviation = 929.74 MHz
+Core 7: Average = 3997.12 MHz, Standard Deviation = 884.77 MHz
+Core 8: Average = 3991.20 MHz, Standard Deviation = 889.35 MHz
+Core 9: Average = 4000.89 MHz, Standard Deviation = 877.20 MHz
+Core 10: Average = 4007.38 MHz, Standard Deviation = 864.91 MHz
+Core 11: Average = 3941.91 MHz, Standard Deviation = 957.26 MHz

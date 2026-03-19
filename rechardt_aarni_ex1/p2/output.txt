@@ -1,0 +1,22 @@
+========== PROBLEM 2 DEMONSTRATION ==========
+
+Cleaning up files to start from scratch...
+
+rm target dep*
+
+ Running 'make' for the first time:
+
+echo "Just some text to fill out the blank files that are created for this exercise, this text isn't necesasry, but is here to illustrate some data that could be in a file that will be create during the execution of this exercise." > dep_1a
+cp dep_1a dep_2a
+echo "Just some text to fill out the blank files that are created for this exercise, this text isn't necesasry, but is here to illustrate some data that could be in a file that will be create during the execution of this exercise." > dep_1b
+cp dep_1b dep_2b
+cat dep_2a > target
+cat dep_2b >> target
+
+ Touching 'dep_2a' and 'dep_1b' to simulate a file update
+
+
+ Running 'make' a second time:
+cp dep_1b dep_2b
+cat dep_2a > target
+cat dep_2b >> target
