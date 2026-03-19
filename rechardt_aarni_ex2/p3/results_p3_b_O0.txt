@@ -1,0 +1,3 @@
+Part B (Original): 0.080706 seconds (Check: 0.4)
+
+Part B (optimized): 0.019254 seconds (Check: 0.4)

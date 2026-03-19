@@ -1,0 +1,4 @@
+Part A (Original): 0.009478 seconds (Check: 7.5)
+
+Part A (optimized): 0.005782 seconds (Check: 7.5)
+

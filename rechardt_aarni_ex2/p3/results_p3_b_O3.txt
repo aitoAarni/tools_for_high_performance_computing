@@ -1,0 +1,23 @@
+// this file has multiple runs
+Part B (Original): 0.003237 seconds (Check: 0.4)
+
+Part B (optimized): 0.006389 seconds (Check: 0.4)
+
+
+Part B (Original): 0.005165 seconds (Check: 0.4)
+
+Part B (optimized): 0.005864 seconds (Check: 0.4)
+
+
+Part B (Original): 0.003919 seconds (Check: 0.4)
+
+Part B (optimized): 0.006371 seconds (Check: 0.4)
+
+
+Part B (Original): 0.006149 seconds (Check: 0.4)
+
+Part B (optimized): 0.005931 seconds (Check: 0.4)
+
+Part B (Original): 0.005837 seconds (Check: 0.4)
+
+Part B (optimized): 0.004469 seconds (Check: 0.4)
