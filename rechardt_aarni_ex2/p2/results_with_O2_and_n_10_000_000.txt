@@ -1,0 +1,7 @@
+FP size: 32, CPU time in seconds 0.118418
+FP size: 64, CPU time in seconds 0.203778
+FP size: 128, CPU time in seconds 1.858363
+
+32 bit result: 14959550
+64 bit result: 14603991.187269809
+128 bit result: 14603991.187269890721
