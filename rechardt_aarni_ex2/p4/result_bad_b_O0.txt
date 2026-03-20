@@ -1,0 +1,1 @@
+Matrix multiplication (awful mem access) A^T*B=C took: 7.45656 seconds. (10855185969007960)

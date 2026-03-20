@@ -1,0 +1,1 @@
+Matrix multiplication (awful mem access) A*B=C took: 5.24592 seconds. (10011234288802520)

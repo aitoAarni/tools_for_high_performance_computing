@@ -1,0 +1,1 @@
+Matrix multiplication A*B^T=C took: 0.64038 seconds. (9593473808337160)

@@ -1,0 +1,1 @@
+Matrix multiplication A*B=C took: 0.648515 seconds. (10011234288802520)
