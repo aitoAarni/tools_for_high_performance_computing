@@ -1,0 +1,15 @@
+for -O0
+Average Time: 0.372150 seconds
+Standard Deviation: 0.032324 seconds
+
+for -O1
+Average Time: 0.109391 seconds
+Standard Deviation: 0.032071 seconds
+
+for -O2
+Average Time: 0.054056 seconds
+Standard Deviation: 0.027822 seconds
+
+for -O3
+Average Time: 0.054194 seconds
+Standard Deviation: 0.029319 seconds
