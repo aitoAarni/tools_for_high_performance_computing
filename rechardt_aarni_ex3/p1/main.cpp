@@ -3,6 +3,9 @@
 #include <cstdio>
 #include <time.h>
 
+// Running instructions:
+// g++ -std=c++23 main.cpp -o main
+// ./main
 
 constexpr int N = 10'000'000;
 float a[N];
