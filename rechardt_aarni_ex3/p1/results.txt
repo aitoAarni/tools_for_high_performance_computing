@@ -1,0 +1,2 @@
+formatted time average: 3.53811 seconds
+unformatted time average: 0.142526 seconds
