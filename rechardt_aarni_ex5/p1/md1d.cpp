@@ -114,7 +114,7 @@ int main(int argc, char **argv)
   
   // Initialize atoms positions and give them random velocities
   box=nat;
-  srand(time(NULL));
+  srand(12345);
   for (i=0;i<nat;i++) {
     x[i]=i;
     rn=(double)rand()/RAND_MAX;
