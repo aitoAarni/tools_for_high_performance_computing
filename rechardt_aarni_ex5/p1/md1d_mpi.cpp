@@ -6,6 +6,8 @@
 #include <string>
 #include <numeric>
 
+// you can compile with mpicxx -O2 -o md1d_mpi md1d_mpi.cpp
+
 #define d  1.0
 #define k2 1.0
 #define k3 0.1
